@@ -61,7 +61,7 @@ var feeds = {};
 // There is one single session ID, the session between this app and Janus
 var session_id = null;
 
-var janus_hostname = 'xx.xx.xx.xx';
+var janus_hostname = 'webrtc5.soba-project.com';
 var janus_port = 8088;
 //------------------------------------
 
